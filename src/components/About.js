@@ -6,7 +6,6 @@ export default function About() {
   return (
     <div>
         This is About
-        This is About
     </div>
   )
 }
